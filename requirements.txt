@@ -1,0 +1,4 @@
+functions-framework
+pinecone-client
+sentence-transformers
+numpy
